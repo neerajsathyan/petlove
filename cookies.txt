@@ -1,0 +1,12 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.petlove.com.br	TRUE	/	FALSE	1999999999	__cfduid	da547918e3d40de26eeeabead0b3c81751603046787
+www.petlove.com.br	TRUE	/	FALSE	1999999999	SameSite	Lax
+www.petlove.com.br	TRUE	/	FALSE	1999999999	ahoy_visitor	eb287460-afb2-485d-bb14-04ba2c423706
+www.petlove.com.br	TRUE	/	FALSE	1999999999	cf_ob_info	524:5e447a08a41efafa:DUS
+www.petlove.com.br	TRUE	/	FALSE	1999999999	cf_use_ob	443
+www.petlove.com.br	TRUE	/	FALSE	1999999999	PL_last_content_date	2020-10-18T18%3A57%3A58.681Z
+www.petlove.com.br	TRUE	/	FALSE	1999999999	PL_last_content_page	http%3A%2F%2Fwww.petlove.com.br%2Famp
+www.petlove.com.br	TRUE	/	FALSE	1999999999	ahoy_visit	b1721266-52fa-44dd-ac4e-bba526df46ee
+www.petlove.com.br	TRUE	/	FALSE	1999999999	_ox_session	WYbmmKLbuBj9iJpFARBNz99sh7oCjVX5faczVrru4E%2FKbaTMlZF3l7OI%2BY5x8ugBNurhYxtVekil%2BQ3b9ZrVwiJW%2B0Rg%2BVnKebdsugLNpD9y48YZWTV5SE96Hi7INugwXeYzL8QBmpOHhRmEf5TrZCNoSoP%2B7b1FdHSrotUIKPhcveyZDbiRfNLt7p%2FMKaoHnK3FmGkiRWic1TP6AW5JLL4MHIYHVLcgdUYYZ060s4nlfNa1AaiuO%2B7vYXRRExzT3CJ8mN8KyYwbpSKBIaPNaX4r2g%3D%3D--IkeMNM%2B8WezJgKXW--o0ZM39mW4BO3JjLJ77hdgw%3D%3D
+
