@@ -1,7 +1,7 @@
 {
   "name": "Petlove",
   "short_name": "Petlove",
-  "start_url": "petlove/",
+  "start_url": "petlove/www.petlove.com.br/",
   "display": "standalone",
   "gcm_sender_id": "133488059068",
   "background_color": "#5a1e82",
